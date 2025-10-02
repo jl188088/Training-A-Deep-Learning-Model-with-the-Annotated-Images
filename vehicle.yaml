@@ -1,0 +1,221 @@
+annotation:
+  folder: images
+  filename: vehicle_annotation.xml
+  path: /content/vehicle_annotation.xml
+  object:
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 869
+        ymin: 541
+        xmax: 1107
+        ymax: 727
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 919
+        ymin: 665
+        xmax: 1198
+        ymax: 804
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 173
+        ymin: 406
+        xmax: 358
+        ymax: 568
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 44
+        ymin: 579
+        xmax: 296
+        ymax: 802
+    - name: truck
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 199
+        ymin: 302
+        xmax: 392
+        ymax: 486
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 303
+        ymin: 266
+        xmax: 430
+        ymax: 377
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 478
+        ymin: 336
+        xmax: 646
+        ymax: 467
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 450
+        ymin: 681
+        xmax: 718
+        ymax: 804
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 484
+        ymin: 462
+        xmax: 692
+        ymax: 602
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 822
+        ymin: 460
+        xmax: 1045
+        ymax: 620
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 815
+        ymin: 384
+        xmax: 995
+        ymax: 509
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 497
+        ymin: 385
+        xmax: 693
+        ymax: 502
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 805
+        ymin: 311
+        xmax: 961
+        ymax: 464
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 536
+        ymin: 305
+        xmax: 671
+        ymax: 414
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 353
+        ymin: 236
+        xmax: 461
+        ymax: 322
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 0
+        ymin: 707
+        xmax: 205
+        ymax: 804
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 109
+        ymin: 466
+        xmax: 323
+        ymax: 658
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 443
+        ymin: 545
+        xmax: 686
+        ymax: 740
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 674
+        ymin: 220
+        xmax: 730
+        ymax: 294
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 767
+        ymin: 256
+        xmax: 894
+        ymax: 358
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 737
+        ymin: 220
+        xmax: 872
+        ymax: 349
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 0
+        ymin: 202
+        xmax: 90
+        ymax: 249
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 770
+        ymin: 261
+        xmax: 900
+        ymax: 402
+    - name: car
+      pose: Unspecified
+      truncated: 0
+      difficult: 0
+      bndbox:
+        xmin: 608
+        ymin: 152
+        xmax: 682
+        ymax: 225
