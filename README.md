@@ -41,7 +41,7 @@ The model is trained to detect the following classes:
 ![Training Logs](./2.png)  
 
 ### 🔹 Inference Results  
-![Inference Example](./traingin-resultpng)  
+![Inference Example](./traingin-result.png)  
 
 
 ## 🛠️ Installation & Setup
